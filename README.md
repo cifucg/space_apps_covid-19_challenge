@@ -1,6 +1,14 @@
-# space_apps_covid-19_challenge
+<h1><font color="#004D7F" size=5>Space Apps COVID-19 Challenge</font></h1>
 
-On May 30-31, NASA, along with the European Space Agency (ESA), the Japan Aerospace Exploration Agency (JAXA), the Canadian Space Agency (CSA), and the National Centre for Space Studies (CNES), is inviting coders, entrepreneurs, scientists, designers, storytellers, makers, builders, artists, and technologists to participate in a virtual hackathon. During a period of 48 hours, participants from around the world will create virtual teams and use Earth observation data to develop solutions to issues related to the COVID-19 pandemic. Challenges will range from studying the coronavirus that causes COVID-19 and its spread to the impact the disease is having on the Earth system. The challenges will focus on the following thematic areas:  Learning about the virus and its spread using space-based data Local response/change and solutions Impacts of COVID-19 on the Earth system/Earth system response Economic opportunity, impact, and recovery during and following COVID-19 The unique capabilities of NASA and its partner space agencies in the areas of science and technology enable them to lend a hand during this global crisis. Since the start of the global outbreak, NASA, ESA, JAXA, CSA, and CNES Earth science specialists have been exploring ways to use unique Earth observation data to aid understanding of the interplay of the Earth system – on global to local scales – with aspects of the COVID-19 outbreak, including, potentially, our ability to combat it. The hackathon will also examine the human and economic response to the virus.
+<img width="256" src="data/img/covid.png" align="right">
+
+On May 30-31, NASA, along with the European Space Agency (ESA), the Japan Aerospace Exploration Agency (JAXA), the Canadian Space Agency (CSA), and the National Centre for Space Studies (CNES), is inviting coders, entrepreneurs, scientists, designers, storytellers, makers, builders, artists, and technologists to participate in a virtual hackathon. 
+
+During a period of 48 hours, participants from around the world will create virtual teams and use Earth observation data to develop solutions to issues related to the COVID-19 pandemic. Challenges will range from studying the coronavirus that causes COVID-19 and its spread to the impact the disease is having on the Earth system. 
+
+The challenges will focus on the following thematic areas:  Learning about the virus and its spread using space-based data Local response/change and solutions Impacts of COVID-19 on the Earth system/Earth system response Economic opportunity, impact, and recovery during and following COVID-19 The unique capabilities of NASA and its partner space agencies in the areas of science and technology enable them to lend a hand during this global crisis. 
+
+Since the start of the global outbreak, NASA, ESA, JAXA, CSA, and CNES Earth science specialists have been exploring ways to use unique Earth observation data to aid understanding of the interplay of the Earth system – on global to local scales – with aspects of the COVID-19 outbreak, including, potentially, our ability to combat it. The hackathon will also examine the human and economic response to the virus.
 
 <h3><center>The Challenge</center></h3>
 
