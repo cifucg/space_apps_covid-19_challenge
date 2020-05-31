@@ -1,0 +1,35 @@
+"hitos" del coronavirus:
+diciembre 2019, brote epidémico de neumonía
+7 de enero 2020, aislan el virus
+12 de enero 2020, China da el genoma secuenciado a la OMS del nuevo virus
+19 de enero 2020, dos casos en Tailandia y uno en Japón
+30 de enero 2020, la OMS declara una emergencia sanitaria de preocupación internacional
+		 15 países más infectados
+11 de marzo 2020, reconocimiento de Pandemia por la OMS
+26 de marzo 2020, 500000 casos detectados
+
+Cuarentena:
+23 de enero 2020, provincia de Hubei (donde está Wuhan) China
+9 de Marzo 2020, Portugal 
+24 de Marzo 2020, Brasil Estado Sao Paulo
+30 de Marzo 2020, Rusia ciudad de Moscú
+23 de Marzo 2020, Reino Unido
+15 de Marzo 2020, España
+9 de Marzo 2020, Italia
+17 de Marzo 2020, Francia
+20 de Marzo 2020, Alemania Estado de Baviera
+25 de Marzo 2020, India
+
+
+top 10 países con más contagios:
+
+    Estados Unidos | 1.745.930 contagios
+    Brasil | 465.166 contagios
+    Rusia | 387.623 contagios
+    Reino Unido | 272.607 contagios
+    España | 238.564 contagios
+    Italia | 232.248 contagios
+    Francia | 186.923 contagios
+    Alemania | 182.922 contagios
+    India | 173.491 contagios
+    Turquía | 162.120 contagios 
