@@ -1,2 +1,0 @@
-https://svs.gsfc.nasa.gov/4810
-https://fluid.nccs.nasa.gov/wxmaps/chem2d/?one_click=1&tau=000&stream=G5FPFC&level=0&region=global&fcst=20200517T000000&field=niaot

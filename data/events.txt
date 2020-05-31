@@ -1,0 +1,11 @@
+date,countries
+01-23-2020,China
+03-09-2020,Portugal
+03-24-2020,Brazil
+03-30-2020,Russia
+03-23-2020,United_Kingdom
+03-15-2020,Spain
+03-09-2020,Italy
+03-17-2020,France
+03-20-2020,Germany
+03-25-2020,India
