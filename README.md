@@ -31,6 +31,6 @@ Your challenge is to identify patterns between human activity and COVID-19 cases
 * Consider derived social determinants of health (SDOH), population activity densities due to weather and weather events, and the related SDOH effects on the transmission and predictions of COVID-19.
 * Are specific activities related to increased number of susceptible or exposed populations? What factors increase a population’s vulnerability to disease?
 
-# To see the work done for this challenge:  
+<h2><center>The proyect</center></h2>
 http://space-apps-challenge-mindbloquers.s3-website-us-east-1.amazonaws.com
 
